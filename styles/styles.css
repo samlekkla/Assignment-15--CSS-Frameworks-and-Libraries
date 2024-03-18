@@ -1,0 +1,31 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.jumbotron {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: "Merienda", cursive;
+    background-size: cover;
+    color: #fff;
+    text-shadow: 2px 2px 4px #000000;
+    min-height: 300;
+    height: 300px;
+}
+
+.navbar {
+    font-family: "Merienda", cursive;
+    background: black;
+}
+
+.container {
+    font-family: "Merienda", cursive;
+}
+
+.footer {
+    font-family: "Merienda", cursive;
+    background-color: #563d7c;
+    color: #fff;
+    padding: 20px 0;
+}
